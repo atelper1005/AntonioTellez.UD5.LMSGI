@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Actividad5-2.xsl"?>
+<libreria>
+
+    <libro>
+        <titulo>Physics-based animation</titulo>
+        <autor>Kenny Erleben</autor>
+        <editor>Charles River Media</editor>
+        <isbn>978-15-8450-380-4</isbn>
+        <precio>50.06</precio>
+        <numPaginas>533</numPaginas>
+    </libro>
+
+    <libro>
+        <titulo>Principios de seguridad informática para usuarios</titulo>
+        <autor>Carlos Garre</autor>
+        <editor>Dykinson</editor>
+        <isbn>978-84-9849-998-8</isbn>
+        <precio>13.00</precio>
+        <numPaginas>268</numPaginas>
+    </libro>
+
+    <libro>
+        <titulo>Ejercicios complementarios de lógica digital</titulo>
+        <autor>Alberto Sánchez</autor>
+        <editor>Dykinson</editor>
+        <isbn>978-84-9849-703-8</isbn>
+        <precio>12.00</precio>
+        <numPaginas>206</numPaginas>
+    </libro>
+
+    <libro>
+        <titulo>Don Quijote de la Mancha</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <editor>Ediciones Tartessos</editor>
+        <precio>5,90€</precio>
+        <isbn>123-65-1278-936-7</isbn>
+        <numPaginas>569</numPaginas>
+    </libro>
+
+    <libro>
+        <titulo>Los Pilares de la Tierra</titulo>
+        <autor>Ken Follett</autor>
+        <editorial>Avenauta</editorial>
+        <precio>7,90€</precio>
+        <isbn>123-65-4567-234-0</isbn>
+        <numPaginas>789</numPaginas>
+    </libro>
+
+    <libro>
+        <titulo>El Código Da Vinci</titulo>
+        <autor>Dan Brown</autor>
+        <editorial>Umbriel Editoriales</editorial>
+        <precio>7,90€</precio>
+        <isbn>123-65-5558-654-9</isbn>
+        <numPaginas>553</numPaginas>
+    </libro>
+
+    <libro>
+        <titulo>Inferno</titulo>
+        <autor>Dan Brown</autor>
+        <editorial>Papelería Juan</editorial>
+        <precio>8,90€</precio>
+        <isbn>123-65-5558-654-8</isbn>
+        <numPaginas>569</numPaginas>
+    </libro>
+
+</libreria>
