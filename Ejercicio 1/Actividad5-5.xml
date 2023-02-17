@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="Actividad5-3.xsl"?>
+<?xml-stylesheet type="text/xsl" href="Actividad5-5.xsl"?>
 <libreria>
 
     <libro>
@@ -33,7 +33,7 @@
         <titulo>Don Quijote de la Mancha</titulo>
         <autor>Miguel de Cervantes</autor>
         <editor>Ediciones Tartessos</editor>
-        <precio>5.90</precio>
+        <precio>5.90€</precio>
         <isbn>123-65-1278-936-7</isbn>
         <numPaginas>569</numPaginas>
     </libro>
@@ -42,7 +42,7 @@
         <titulo>Los Pilares de la Tierra</titulo>
         <autor>Ken Follett</autor>
         <editorial>Avenauta</editorial>
-        <precio>7.90</precio>
+        <precio>7.90€</precio>
         <isbn>123-65-4567-234-0</isbn>
         <numPaginas>789</numPaginas>
     </libro>
@@ -51,36 +51,9 @@
         <titulo>El Código Da Vinci</titulo>
         <autor>Dan Brown</autor>
         <editorial>Umbriel Editoriales</editorial>
-        <precio>7.90</precio>
+        <precio>7.90€</precio>
         <isbn>123-65-5558-654-9</isbn>
         <numPaginas>553</numPaginas>
-    </libro>
-
-    <libro>
-        <titulo>Inferno</titulo>
-        <autor>Dan Brown</autor>
-        <editorial>Papelería Juan</editorial>
-        <precio>8.90</precio>
-        <isbn>123-65-5558-654-8</isbn>
-        <numPaginas>569</numPaginas>
-    </libro>
-
-    <libro>
-        <titulo>Platero y yo</titulo>
-        <autor>Juan</autor>
-        <editorial>Papelería Conchi</editorial>
-        <precio>10.50</precio>
-        <isbn>124-65-1278-654-1</isbn>
-        <numPaginas>213</numPaginas>
-    </libro>
-
-    <libro>
-        <titulo>Sonetos espirituales</titulo>
-        <autor>Juan</autor>
-        <editorial>Papelería Conchi</editorial>
-        <precio>12.50</precio>
-        <isbn>124-65-1278-654-2</isbn>
-        <numPaginas>164</numPaginas>
     </libro>
 
 </libreria>

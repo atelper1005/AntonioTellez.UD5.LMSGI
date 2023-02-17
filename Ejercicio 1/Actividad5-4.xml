@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="Actividad5-3.xsl"?>
+<?xml-stylesheet type="text/xsl" href="Actividad5-4.xsl"?>
 <libreria>
 
     <libro>
@@ -66,21 +66,21 @@
     </libro>
 
     <libro>
-        <titulo>Platero y yo</titulo>
-        <autor>Juan</autor>
-        <editorial>Papelería Conchi</editorial>
+        <titulo>El Imperio Final</titulo>
+        <autor>Brandon Sanderson</autor>
+        <editorial>Toñi Editoriales</editorial>
         <precio>10.50</precio>
-        <isbn>124-65-1278-654-1</isbn>
-        <numPaginas>213</numPaginas>
+        <isbn>123-69-5658-654-9</isbn>
+        <numPaginas>533</numPaginas>
     </libro>
 
     <libro>
-        <titulo>Sonetos espirituales</titulo>
-        <autor>Juan</autor>
-        <editorial>Papelería Conchi</editorial>
-        <precio>12.50</precio>
-        <isbn>124-65-1278-654-2</isbn>
-        <numPaginas>164</numPaginas>
+        <titulo>El Silmarillion</titulo>
+        <autor>J.R.R. Tolkien</autor>
+        <editorial>British Library</editorial>
+        <precio>60.50</precio>
+        <isbn>111-60-5659-600-1</isbn>
+        <numPaginas>833</numPaginas>
     </libro>
 
 </libreria>
