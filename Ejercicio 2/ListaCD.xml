@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cd_p1.xsl"?>
+<Lista>
+    <CD>
+        <titulo>El Mal Querer</titulo>
+        <artista>Rosalía</artista>
+        <cancion tiempo="230">Malamente</cancion>
+        <cancion tiempo="429">Que no salga la luna</cancion>
+        <cancion tiempo="313">Pienso en tu mirá</cancion>
+        <cancion tiempo="224">De aquí no sales</cancion>
+        <cancion tiempo="328">Reniego</cancion>
+        <cancion tiempo="040">Preso</cancion>
+        <cancion tiempo="302">Bagdad</cancion>
+        <cancion tiempo="242">Di mi nombre</cancion>
+        <cancion tiempo="317">Nana</cancion>
+        <cancion tiempo="255">Maldición</cancion>
+        <cancion tiempo="134">A ningún hombre</cancion>
+        <sello>Sony</sello>
+        <año>2018</año>
+    </CD>
+    <CD>
+        <titulo>Motomami</titulo>
+        <artista>Rosalía</artista>
+        <cancion tiempo="217">Saoko</cancion>
+        <cancion tiempo="313">Candy</cancion>
+        <cancion tiempo="308">La Fama</cancion>
+        <cancion tiempo="235">Bulerías</cancion>
+        <cancion tiempo="202">Chicken Teriyaki</cancion>
+        <cancion tiempo="242">Hentai</cancion>
+        <cancion tiempo="149">Bizcochito</cancion>
+        <cancion tiempo="412">Genís</cancion>
+        <cancion tiempo="101">Motomami</cancion>
+        <cancion tiempo="245">Diablo</cancion>
+        <cancion tiempo="225">Delirio de grandeza</cancion>
+        <cancion tiempo="235">Cuuuuuute</cancion>
+        <cancion tiempo="230">Como un G</cancion>
+        <cancion tiempo="422">abcdefg</cancion>
+        <cancion tiempo="240">La Combi Versace</cancion>
+        <cancion tiempo="321">Sakura</cancion>
+        <sello>Sony</sello>
+        <año>2022</año>
+    </CD>
+    <CD>
+        <titulo>Montero</titulo>
+        <artista>Lil Nas X</artista>
+        <cancion tiempo="218">Montero</cancion>
+        <cancion tiempo="341">Dead Right Now</cancion>
+        <cancion tiempo="332">Industry Baby</cancion>
+        <cancion tiempo="223">Thats What I Want</cancion>
+        <cancion tiempo="024">The Art of Realization</cancion>
+        <cancion tiempo="254">Scoop</cancion>
+        <cancion tiempo="242">One of Me</cancion>
+        <cancion tiempo="250">Lost in the Citadel</cancion>
+        <cancion tiempo="225">Dolla Sign Slime</cancion>
+        <cancion tiempo="226">Tales of Dominica</cancion>
+        <cancion tiempo="248">Sun Goes Down</cancion>
+        <cancion tiempo="408">Void</cancion>
+        <cancion tiempo="212">Dont Want It</cancion>
+        <cancion tiempo="331">Life After Salem</cancion>
+        <cancion tiempo="303">Am I Dreaming</cancion>
+        <sello>Columbia Records</sello>
+        <año>2021</año>
+    </CD>
+    <CD>
+        <titulo>Recovery</titulo>
+        <artista>Eminem</artista>
+        <cancion tiempo="504">Cold Wind Blows</cancion>
+        <cancion tiempo="500">Talkin' 2 Myself</cancion>
+        <cancion tiempo="334">On Fire</cancion>
+        <cancion tiempo="426">Won't Back Down</cancion>
+        <cancion tiempo="358">W.T.P</cancion>
+        <cancion tiempo="459">Going Through Changes</cancion>
+        <cancion tiempo="408">Not Afraid</cancion>
+        <cancion tiempo="435">Seduction</cancion>
+        <cancion tiempo="500">No Love</cancion>
+        <cancion tiempo="439">Space Bound</cancion>
+        <cancion tiempo="439">Cinderella Man</cancion>
+        <cancion tiempo="402">25 to Life</cancion>
+        <cancion tiempo="525">So Bad</cancion>
+        <cancion tiempo="453">Almost Famous</cancion>
+        <cancion tiempo="423">Love the Way You Lie</cancion>
+        <cancion tiempo="506">You're Never Over</cancion>
+        <sello>Shady Records</sello>
+        <año>2010</año>
+    </CD>
+    <CD>
+        <titulo>El Madrileño</titulo>
+        <artista>C. Tangana</artista>
+        <cancion tiempo="233">Demasiadas Mujeres</cancion>
+        <cancion tiempo="318">Tú me dejaste de querer</cancion>
+        <cancion tiempo="254">Comerte Entera</cancion>
+        <cancion tiempo="242">Nunca estoy</cancion>
+        <cancion tiempo="247">Párteme la cara</cancion>
+        <cancion tiempo="307">Ingobernable</cancion>
+        <cancion tiempo="256">Nominao</cancion>
+        <cancion tiempo="313">Un veneno</cancion>
+        <cancion tiempo="307">Te olvidaste</cancion>
+        <cancion tiempo="302">Muriendo de envidia</cancion>
+        <cancion tiempo="308">Cambia!</cancion>
+        <cancion tiempo="309">Cuando olvidaré</cancion>
+        <cancion tiempo="312">Los Tontos</cancion>
+        <cancion tiempo="323">Hong Kong</cancion>
+        <sello>Sony Music España</sello>
+        <año>2021</año>
+    </CD>
+    <CD>
+        <titulo>Thriller</titulo>
+        <artista>Michael Jackson</artista>
+        <cancion tiempo="603">Wanna Be Startin' Somethin'</cancion>
+        <cancion tiempo="420">Baby Be Mine</cancion>
+        <cancion tiempo="342">The Girl Is Mine</cancion>
+        <cancion tiempo="557">Thriller</cancion>
+        <cancion tiempo="419">Beat It</cancion>
+        <cancion tiempo="454">Billie Jean</cancion>
+        <cancion tiempo="405">Human Nature</cancion>
+        <cancion tiempo="358">P.Y.T</cancion>
+        <cancion tiempo="459">The Lady In My Life</cancion>
+        <sello>Epic Records</sello>
+        <año>1982</año>
+    </CD>
+    <CD>
+        <titulo>Sheer Heart Attack</titulo>
+        <artista>Queen</artista>
+        <cancion tiempo="511">Brighton Rock</cancion>
+        <cancion tiempo="301">Killer Queen</cancion>
+        <cancion tiempo="250">Tenement Funster</cancion>
+        <cancion tiempo="320">Flick Of The Wrist</cancion>
+        <cancion tiempo="147">Lily Of The Valley</cancion>
+        <cancion tiempo="415">Now I'm Here</cancion>
+        <cancion tiempo="323">Stone Cold Crazy</cancion>
+        <cancion tiempo="210">Dear Friends</cancion>
+        <cancion tiempo="107">Misfire</cancion>
+        <cancion tiempo="150">Bring Back That Leroy Brown</cancion>
+        <cancion tiempo="410">She Makes Me</cancion>
+        <sello>EMI</sello>
+        <año>1974</año>
+    </CD>
+    <CD>
+        <titulo>Made In Heaven</titulo>
+        <artista>Queen</artista>
+        <cancion tiempo="302">It's a Beautiful Day</cancion>
+        <cancion tiempo="526">Made In Heaven</cancion>
+        <cancion tiempo="446">Let Me Live</cancion>
+        <cancion tiempo="450">Mother Love</cancion>
+        <cancion tiempo="316">My Life Has Been Saved</cancion>
+        <cancion tiempo="450">I Was Born to Love You</cancion>
+        <cancion tiempo="537">Heaven For Everyone</cancion>
+        <cancion tiempo="421">Too Much Love Will Kill You</cancion>
+        <cancion tiempo="525">You Don't Fool Me</cancion>
+        <cancion tiempo="351">A Winter's Tale</cancion>
+        <sello>EMI</sello>
+        <año>1995</año>
+    </CD>
+    <CD>
+        <titulo>Highway to Hell</titulo>
+        <artista>AC/DC</artista>
+        <cancion tiempo="330">Highway to Hell</cancion>
+        <cancion tiempo="326">Girls Got Rhythm</cancion>
+        <cancion tiempo="512">Walk All Over You</cancion>
+        <cancion tiempo="634">Touch Too Much</cancion>
+        <cancion tiempo="400">Beating Around the Bush</cancion>
+        <cancion tiempo="325">Shot Down in Flames</cancion>
+        <cancion tiempo="237">Get It Hot</cancion>
+        <cancion tiempo="440">If You Want Blood (You've Got It)</cancion>
+        <cancion tiempo="420">Love Hungry Man</cancion>
+        <cancion tiempo="627">Night Prowler</cancion>
+        <sello>Atlantic Records</sello>
+        <año>1979</año>
+    </CD>
+    <CD>
+        <titulo>Starboy</titulo>
+        <artista>The Weekend</artista>
+        <cancion tiempo="350">Starboy</cancion>
+        <cancion tiempo="409">Party Monster</cancion>
+        <cancion tiempo="340">False Alarm</cancion>
+        <cancion tiempo="338">Reminder</cancion>
+        <cancion tiempo="352">Rockin'</cancion>
+        <cancion tiempo="425">Secrets</cancion>
+        <cancion tiempo="351">Sidewalks</cancion>
+        <cancion tiempo="521">All I Know</cancion>
+        <cancion tiempo="420">Die for You</cancion>
+        <cancion tiempo="429">I Feel It Coming</cancion>
+        <sello>Republic</sello>
+        <año>2016</año>
+    </CD>
+</Lista>

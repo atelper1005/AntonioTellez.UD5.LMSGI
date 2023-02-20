@@ -33,7 +33,7 @@
         <titulo>Don Quijote de la Mancha</titulo>
         <autor>Miguel de Cervantes</autor>
         <editor>Ediciones Tartessos</editor>
-        <precio>5.90€</precio>
+        <precio>5.90</precio>
         <isbn>123-65-1278-936-7</isbn>
         <numPaginas>569</numPaginas>
     </libro>
@@ -42,7 +42,7 @@
         <titulo>Los Pilares de la Tierra</titulo>
         <autor>Ken Follett</autor>
         <editorial>Avenauta</editorial>
-        <precio>7.90€</precio>
+        <precio>7.90</precio>
         <isbn>123-65-4567-234-0</isbn>
         <numPaginas>789</numPaginas>
     </libro>
@@ -51,7 +51,7 @@
         <titulo>El Código Da Vinci</titulo>
         <autor>Dan Brown</autor>
         <editorial>Umbriel Editoriales</editorial>
-        <precio>7.90€</precio>
+        <precio>7.90</precio>
         <isbn>123-65-5558-654-9</isbn>
         <numPaginas>553</numPaginas>
     </libro>
