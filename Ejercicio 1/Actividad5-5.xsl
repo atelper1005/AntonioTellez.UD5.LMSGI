@@ -25,7 +25,7 @@
         <tr>
            
             <td>
-                <xsl:apply-templates select="ISBN" />
+                <xsl:apply-templates select="isbn" />
             </td>
           
             <xsl:apply-templates select="titulo" />
@@ -40,8 +40,8 @@
         </tr>
     </xsl:template>
     <!-- Plantilla para el ISNB -->
-    <xsl:template match="ISBN">
-        <td bgcolor="#DDEEDD">
+    <xsl:template match="isbn">
+        <td bgcolor="#AECCAF">
             <xsl:value-of select="." />
         </td>
     </xsl:template>
@@ -54,6 +54,12 @@
     <!-- Plantilla para el autor -->
     <xsl:template match="autor">
         <td bgcolor="#AABBAA">
+            <xsl:value-of select="." />
+        </td>
+    </xsl:template>
+    <!-- Plantilla para el precio -->
+    <xsl:template match="precio">
+        <td bgcolor="#BEAECC">
             <xsl:value-of select="." />
         </td>
     </xsl:template>

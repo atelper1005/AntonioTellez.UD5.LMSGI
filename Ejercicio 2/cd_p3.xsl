@@ -7,13 +7,13 @@
                 <h1>Mi biblioteca de CD's</h1>
                 <table border="2">
                     <tr bgcolor="#218024">
-                        <th>Título</th>
+                        <th>Titulo</th>
                         <th>Artista</th>
-                        <th>Sello Discografía</th>
+                        <th>Sello</th>
                         <th>Año</th>
                         <th>Canciones</th>
                     </tr>
-                    <xsl:for-each select="Lista/CD">
+                    <xsl:for-each select="Lista/CD[sello='EMI']">
                         <tr>
                             <td>
                                 <xsl:value-of select="titulo"/>
@@ -25,11 +25,9 @@
                                 <xsl:value-of select="sello"/>
                             </td>
                             <td>
-                                <!-- año o anyo? -->
                                 <xsl:value-of select="año"/>
                             </td>
                             <td>
-                                <!-- o esto puede ser lo que de fallo? -->
                                 <xsl:for-each select="cancion">
                                     <xsl:value-of select="."/>
                                     <br/>

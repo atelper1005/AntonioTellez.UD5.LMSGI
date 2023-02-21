@@ -12,7 +12,7 @@
                 <th>Año</th>
                 <th>Canciones</th>
             </tr>
-            <xsl:for-each select="CD[artista='Rosalia']">
+            <xsl:for-each select="Lista/CD[artista='Rosalía']">
             <tr>
                 <td>
                     <xsl:value-of select="titulo"/>
@@ -25,14 +25,16 @@
                 <td>
                     <xsl:value-of select="año"/>
                 </td>
-                <td><xsl:for-each select="cancion">
-                    <xsl:value-of select="."/> <br/>
-             </xsl:for-each>
-            </td>
-        </tr>
-    </xsl:for-each>
-</table>
-</body>
+                <td>
+                    <xsl:for-each select="cancion">
+                        <xsl:value-of select="."/> 
+                        <br/>
+                    </xsl:for-each>
+                </td>
+            </tr>
+            </xsl:for-each>
+        </table>
+    </body>
 </html>
 </xsl:template>
 </xsl:stylesheet>
